@@ -8,9 +8,6 @@
             "email": "marcelo.jacobus@gmail.com"
         }
     ],
-    "require": {
-        "koine/objects": "0.9.*"
-    },
     "require-dev": {
         "phpunit/PHPUnit": "*",
         "satooshi/php-coveralls": "dev-master"

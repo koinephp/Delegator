@@ -4,49 +4,9 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ec219a45f2f3152e8a1e2cf043e7bac7",
+    "hash": "ac38a453741292f79ea885a0dc4372bf",
     "packages": [
-        {
-            "name": "koine/objects",
-            "version": "0.9.4",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/koinephp/Objects.git",
-                "reference": "53cd9639bc331809d22c4bf3e98ca547965d1964"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/koinephp/Objects/zipball/53cd9639bc331809d22c4bf3e98ca547965d1964",
-                "reference": "53cd9639bc331809d22c4bf3e98ca547965d1964",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.3"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "*",
-                "satooshi/php-coveralls": "dev-master"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-0": {
-                    "Koine\\": "lib"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Marcelo Jacobus",
-                    "email": "marcelo.jacobus@gmail.com"
-                }
-            ],
-            "description": "Primitive types behaving like grown up objects",
-            "homepage": "https://github.com/mjacobus/php-objects",
-            "time": "2014-07-29 20:32:19"
-        }
+
     ],
     "packages-dev": [
         {
