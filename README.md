@@ -6,7 +6,7 @@ Simple method delegator for PHP.
 Code information:
 
 [![Build Status](https://travis-ci.org/koinephp/Delegator.png?branch=master)](https://travis-ci.org/koinephp/Delegator)
-[![Coverage Status](https://coveralls.io/repos/koinephp/Delegator/badge.png)](https://coveralls.io/r/koinephp/Delegator)
+[![Coverage Status](https://coveralls.io/repos/koinephp/Delegator/badge.png?branch=master)](https://coveralls.io/r/koinephp/Delegator?branch=master)
 [![Code Climate](https://codeclimate.com/github/koinephp/Delegator.png)](https://codeclimate.com/github/koinephp/Delegator)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koinephp/Delegator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koinephp/Delegator/?branch=master)
 
