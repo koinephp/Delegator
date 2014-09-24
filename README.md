@@ -16,6 +16,7 @@ Package information:
 [![Total Downloads](https://poser.pugx.org/koine/delegator/downloads.svg)](https://packagist.org/packages/koine/delegator)
 [![Latest Unstable Version](https://poser.pugx.org/koine/delegator/v/unstable.svg)](https://packagist.org/packages/koine/delegator)
 [![License](https://poser.pugx.org/koine/delegator/license.svg)](https://packagist.org/packages/koine/delegator)
+[![Dependency Status](https://gemnasium.com/koinephp/Delegator.png)](https://gemnasium.com/koinephp/Delegator)
 
 ### Usage
 
